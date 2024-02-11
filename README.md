@@ -11,3 +11,6 @@ write_to_read_only_memory
 get_module_base_x64  
 read_kernel_memory  
 write_kernel_memory  
+
+# For Learning Purpose Only
+Use at your own risk.
